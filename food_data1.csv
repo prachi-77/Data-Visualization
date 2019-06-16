@@ -1,0 +1,46 @@
+FastFoodRestaurant,Type,Serving Size,Calories,Total Fat (g),SaturatedFat ,TransFat,Carbs (g),Sodium (mg),AteIt,Rating
+McDonald's,Egg McMuffin,139,300,12,5,0,30,820,No,n/a
+McDonald's,Sausage McMuffin,114,370,22,8,0,29,850,Yes,Good
+McDonald's,Sausage McMuffin (egg),164,450,27,10,0,30,920,No,n/a
+McDonald's,"Bacon, Egg & Cheese Biscuit (regular)",144,450,25,11,0,36,1360,No,n/a
+McDonald's,"Sausage Biscuit (egg, regular)",159,500,32,12,0,35,1130,Yes,OK
+Burger King,Croissan'wich Egg & Cheese,115,300,17,6,2,26,740,No,n/a
+Burger King,Croissan'wich Sausage & Cheese,106,370,25,9,2,23,810,No,n/a
+Burger King,"Croissan'wich Sausage, Egg & Cheese",159,470,32,11,2.5,26,1060,No,n/a
+Burger King,"Croissan'wich Ham, Egg & Cheese",149,340,18,6,2,26,1230,No,n/a
+Burger King,"Croissan'wich Bacon, Egg & Cheese",122,340,20,7,2,26,890,No,n/a
+Hardee's,Egg Biscuit,152,450,51,20,Unknown,35,940,No,n/a
+Hardee's,Bacon Biscuit,120,430,28,7,Unknown,35,1110,Yes,Very Good
+Hardee's,Sausage Biscuit,142,530,38,10,Unknown,36,1240,Yes,Very Good
+Hardee's,Country Ham Biscuit,144,440,26,6,Unknown,36,1710,No,n/a
+Hardee's,Breaded Chicken Fillet Biscuit,226,600,34,7,Unknown,50,1680,Yes,OK
+Arby's,Bacon & Egg Croissant,120,337,22,10,0,23,651,No,n/a
+Arby's,Bacon Biscuit,95,340,21,6,0,29,1028,Yes,Good
+Arby's,"Bacon, Egg & Cheese Biscuit",158,461,28,8,0,30,1446,No,n/a
+Arby's,"Bacon, Egg & Cheese Croissant",133,378,22,10,0,23,850,No,n/a
+Arby's,"Bacon, Egg & Cheese Sourdough",173,437,16,5,0,40,1220,No,n/a
+Jack In The Box,"Bacon, Egg & Cheese Biscuit",149,430,25,8,5,34,1100,No,n/a
+Jack In The Box,Bacon Breakfast Jack,113,300,14,5,0.5,29,730,Yes,Bad
+Jack In The Box,Breakfast Jack,125,290,12,4.5,0,29,760,Yes,Very Bad
+Jack In The Box,Chicken Biscuit,154,450,24,6,6,42,980,Yes,OK
+Jack In The Box,Ciabatta Breakfast Sandwich,278,710,36,10,1,63,1730,Yes,OK
+Sonic,"Bacon, Egg & Cheese Bistro",162,510,30,10,0.5,37,1060,No,n/a
+Sonic,"Ham, Egg & Cheese Bistro",181,460,24,7,0.5,36,1320,No,n/a
+Sonic,"Sausage, Egg & Cheese Bistro",189,590,40,13,1,37,1000,No,n/a
+Sonic,"Sausage, Egg & Cheese Toaster",194,620,42,13,1,40,1380,No,n/a
+Sonic,"Bacon, Egg & Cheese Toaster",167,530,32,10,0.5,40,1440,No,n/a
+Subway,Cheese Sandwich,167,400,17,7,0,43,940,No,n/a
+Subway,Chipotle Steak & Cheese Sandwich,259,580,31,11,0.5,48,1400,No,n/a
+Subway,Double Bacon & Cheese Sandwich,185,500,25,11,0.5,44,1310,No,n/a
+Subway,Honey Mustard Ham & Cheese Sandwich,216,460,19,8,0,51,1430,No,n/a
+Subway,Western Sandwich (cheese),207,440,18,8,0,45,1320,No,n/a
+Carl's Jr.,Breakfast Burger,309,830,47,15,Unknown,65,1580,No,n/a
+Carl's Jr.,Sourdough Breakfast Sandwich,193,460,21,9,Unknown,39,1050,No,n/a
+Carl's Jr.,Sunrise Croissant,172,560,41,15,Unknown,27,970,No,n/a
+Carl's Jr.,Bacon & Egg Burrito,208,570,33,11,Unknown,37,990,No,n/a
+Carl's Jr.,Loaded Breakfast Burrito,328,820,51,16,Unknown,52,1530,No,n/a
+Chick-Fil-A,Chicken Burrito,191,410,16,7,0,42,940,Yes,Very Good
+Chick-Fil-A,Sausage Burrito,191,450,23,9,0,39,860,Yes,Very Good
+Chick-Fil-A,"Chicken, Egg & Cheese (sunflower multi-grain bagel)",215,500,20,7,0,49,1260,No,n/a
+Chick-Fil-A,Hot Buttered Biscuit,79,270,12,3,3,38,660,Yes,Good
+Chick-Fil-A,Chicken Biscuit,145,420,19,4.5,3,44,1270,Yes,Good
